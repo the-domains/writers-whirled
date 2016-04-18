@@ -9,18 +9,18 @@ keywords: []
 description: |-
   I write because there is no
   one left in my life who knew me before I knew myself.
-datePublished: '2016-04-18T01:32:57.048Z'
-dateModified: '2016-04-18T01:32:51.577Z'
+datePublished: '2016-04-18T01:33:24.683Z'
+dateModified: '2016-04-18T01:33:04.134Z'
 title: Why I Write
 author: []
+sourcePath: _posts/2016-04-18-why-i-write.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-why-i-write.md
-published: true
 _type: Blurb
 
 ---
